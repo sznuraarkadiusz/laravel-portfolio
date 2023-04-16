@@ -1,20 +1,16 @@
 <!-- Footer-->
 <footer class="bg-light py-5">
-    <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2023 - Company Name</div></div>
+    <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Arkadiusz Sznura &copy; 2023 - Wszelkie prawa zastrzeżone.</div></div>
 </footer>
-<!-- Bootstrap core JS-->
+<!-- Bootstrap core JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-<!-- SimpleLightbox plugin JS-->
+<!-- SimpleLightbox plugin JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.js"></script>
-<!-- Core theme JS-->
+<!-- Core theme JS -->
 <script src="js/scripts.js"></script>
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-<!-- * *                               SB Forms JS                               * *-->
-<!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
 <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 
-<!-- Typed.js *-->
+<!-- Typed.js -->
 <script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
 <script>
     var typed = new Typed('#hero-typed', {
