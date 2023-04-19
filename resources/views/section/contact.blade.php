@@ -5,7 +5,7 @@
             <div class="col-lg-8 col-xl-6 text-center">
                 <h2 class="mt-0">Let's Get In Touch!</h2>
                 <hr class="divider" />
-                <p class="text-muted mb-5">Ready to start your next project with us? Send us a messages and we will get back to you as soon as possible!</p>
+                <p class="text-muted mb-5">If you want to ask me a question about cooperation or contact me regarding a quote, please use the form below.</p>
             </div>
         </div>
         <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
@@ -50,12 +50,6 @@
                     <!-- Submit Button -->
                     <div class="d-grid"><button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit">Submit</button></div>
                 </form>
-            </div>
-        </div>
-        <div class="row gx-4 gx-lg-5 justify-content-center">
-            <div class="col-lg-4 text-center mb-5 mb-lg-0">
-                <i class="bi-phone fs-2 mb-3 text-muted"></i>
-                <div>+48 668 905 768</div>
             </div>
         </div>
     </div>

@@ -8,3 +8,7 @@ root{
     color: #f13881;
 }
 
+hr.divider{
+    border-top: 0;
+}
+
