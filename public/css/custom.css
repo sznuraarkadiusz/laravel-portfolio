@@ -12,3 +12,7 @@ hr.divider{
     border-top: 0;
 }
 
+footer .footer-links .footer-social-link{
+    color: #000;
+    font-size: 2em;
+}
