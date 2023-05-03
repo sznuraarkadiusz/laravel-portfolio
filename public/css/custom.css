@@ -12,7 +12,40 @@ hr.divider{
     border-top: 0;
 }
 
+hr.divider-mc{
+    background-color: #fff;
+}
+
+footer .footer-links{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
 footer .footer-links .footer-social-link{
     color: #000;
     font-size: 2em;
+}
+
+.page-section{
+    padding: 4rem 0;
+}
+
+.content-box{
+    padding: 1em 0;
+}
+
+.hero-section img.about-me_image{
+    border-radius: 10em;
+    border: 3px solid #fff;
+}
+
+.services-section .service-position i{
+    font-size: 2em;
+    padding-bottom: 1em;
+}
+
+#particles-js{
+    width: 100%;
+    height: 100%;
 }

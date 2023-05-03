@@ -15,8 +15,13 @@
     <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
     <!-- SimpleLightbox plugin CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
+    <!-- Swiper JS -->
+    <link href="css/swiper-bundle.min.css" rel="stylesheet" />
     <!-- Core theme CSS  -->
     <link href="css/styles.css" rel="stylesheet" />
     <link href="css/custom.css" rel="stylesheet" />
+    <!-- Particle JS -->
+    <script src="{{ asset('js/particles-js/particles.min.js') }}"></script>
+    <script src="{{ asset('js/particles-js/app.js') }}"></script>
 </head>
 <body id="page-top">

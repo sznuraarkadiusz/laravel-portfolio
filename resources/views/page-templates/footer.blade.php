@@ -1,26 +1,6 @@
 <!-- Footer-->
 <!-- Footer -->
 <footer class="text-center text-lg-start bg-light text-muted">
-    <!-- Slider main container -->
-    <div class="swiper">
-        <!-- Additional required wrapper -->
-        <div class="swiper-wrapper">
-            <!-- Slides -->
-            <div class="swiper-slide">Slide 1</div>
-            <div class="swiper-slide">Slide 2</div>
-            <div class="swiper-slide">Slide 3</div>
-            ...
-        </div>
-        <!-- If we need pagination -->
-        <div class="swiper-pagination"></div>
-
-        <!-- If we need navigation buttons -->
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-
-        <!-- If we need scrollbar -->
-        <div class="swiper-scrollbar"></div>
-    </div>
     <!-- Section: Links  -->
     <section class="py-3">
         <div class="container text-center text-md-start mt-5">
@@ -29,7 +9,7 @@
                 <!-- Grid column -->
                 <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-6">
                     <!-- Content -->
-                    <h6 class="text-uppercase fw-bold mb-4">
+                    <h6 class="text-uppercase fw-bold mb-4 text-center">
                         <i class="fas fa-gem me-3"></i>Arkadiusz Sznura
                     </h6>
                     <p style="text-align: justify">
@@ -41,7 +21,7 @@
                 <!-- Grid column -->
                 <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-6">
                     <!-- Links -->
-                    <h6 class="text-uppercase fw-bold mb-4">
+                    <h6 class="text-uppercase fw-bold mb-4 text-center">
                         Useful links
                     </h6>
                     <div class="footer-links">
@@ -56,7 +36,7 @@
                 <!-- Grid column -->
                 <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-3">
                     <!-- Links -->
-                    <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
+                    <h6 class="text-uppercase fw-bold mb-4 text-center">Contact</h6>
                     <p>
                         <i class="fas fa-envelope me-3"></i>
                         arkadiusz.sznura@gmail.com
@@ -83,7 +63,7 @@
 <!-- Core theme JS -->
 <script src="js/scripts.js"></script>
 <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
-
+<script src="js/swiper-bundle.min.js"></script>
 <!-- Typed.js -->
 <script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
 <script>

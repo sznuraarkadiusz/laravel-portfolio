@@ -1,4 +1,5 @@
 <!-- Portfolio -->
+<section class="page-section">
 <div id="portfolio">
     <div class="container-fluid p-0">
         <h2 class="text-center mt-0">Portfolio</h2>
@@ -34,3 +35,4 @@
         </div>
     </div>
 </div>
+</section>
